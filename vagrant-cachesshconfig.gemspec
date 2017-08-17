@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.license       = 'Apache 2.0'
 
   spec.summary       = 'A Vagrant Plugin that caches ssh-config data'
-  spec.homepage      = 'https://github.com/tkishel/vagrantcachesshconfig'
+  spec.homepage      = 'https://github.com/tkishel/vagrant-cachesshconfig'
   spec.description   = ''
 
   spec.files         = %x[git ls-files].split($/)
